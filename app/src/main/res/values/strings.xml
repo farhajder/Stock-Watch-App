@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="addStockMenu">addStockMenu</string>
+    <string name="duplicateStock">Duplicate Stock</string>
+    <string name="stockSymbol">Stock Symbol </string>
+    <string name="alreadyDisplayed"> is already displayed</string>
+    <string name="symbolNotFound">Symbol : </string>
+    <string name="errorResponseCode">404 - Not Found</string>
+    <string name="dataForStockSymbol">Data for stock symbol</string>
+    <string name="makeSelection">Make a selection</string>
+    <string name="neverMind">NEVERMIND</string>
+    <string name="companySymbol">symbol</string>
+    <string name="companyName">name</string>
+    <string name="cancel">CANCEL</string>
+    <string name="delete">DELETE</string>
+    <string name="deleteStock">Delete Stock</string>
+    <string name="deleteStockSymbol">Delete Stock Symbol </string>
+    <string name="ok">OK</string>
+    <string name="noNetworkConnection">No Network Connection</string>
+    <string name="noNetworkConnectionData">Stocks Cannot Be Updated Without A Network Connection</string>
+    <string name="stockSelection">Stock Selection</string>
+    <string name="stockSelectionData">Please enter a Stock Symbol:</string>
+    <string name="marketWatch">http://www.marketwatch.com/investing/stock/</string>
+</resources>
